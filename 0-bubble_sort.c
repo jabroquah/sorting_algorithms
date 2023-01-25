@@ -1,3 +1,11 @@
+#include "sort.h"
+/**
+* bubble_sort - Sort an array with bubble sort algorithm
+* @array: array to be sorted
+* @size: size of array
+*
+*/
+
 void bubble_sort(int *arrary, size_t size)
 {
 	int temp;
